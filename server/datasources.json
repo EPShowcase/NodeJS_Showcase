@@ -1,0 +1,15 @@
+{
+  "memdb": {
+    "name": "memdb",
+    "connector": "memory"
+  },
+  "db": {
+    "host": "127.0.0.1",
+    "port": 27017,
+    "database": "cv",
+    "username": "cv",
+    "password": "DontLookBack",
+    "name": "db",
+    "connector": "mongodb"
+  }
+}

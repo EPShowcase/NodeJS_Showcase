@@ -1,0 +1,11 @@
+{
+  "loopback-component-explorer": {
+    "mountPath": "/explorer",
+    "generateOperationScopedModels": true,
+    "uiDirs": "server/explorer",
+    "apiInfo": {
+      "title": "EP Showcase",
+      "description": "EP Showcase API based on Loopback and Node.js.<br>Using MongoDB as data storage"
+    }
+  }
+}
